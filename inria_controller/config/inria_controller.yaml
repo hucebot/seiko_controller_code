@@ -1,0 +1,3 @@
+inria_controller/ControllerTalos:
+    type: "inria_controller/ControllerTalos"
+

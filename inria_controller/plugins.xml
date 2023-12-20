@@ -1,0 +1,8 @@
+<library path="lib/libinria_controller">
+    <class name="inria_controller/ControllerTalos" type="inria::ControllerTalos" base_class_type="controller_interface::ControllerBase">
+        <description>
+            Position controller for Talos robot
+        </description>
+    </class>
+</library>
+
