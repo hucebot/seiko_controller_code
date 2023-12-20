@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>inria_model</name>
+    <version>0.0.0</version>
+    <description>
+        Wrapper around RBDL and Pinocchio model API along with
+        model based computation and optimization
+    </description>
+    <maintainer email="quentin.rouxel@inria.fr">Quentin Rouxel</maintainer>
+    <license>BSD</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+    <depend>urdf</depend>
+    <depend>rbdl_catkin</depend>
+    <depend>pinocchio</depend>
+    <depend>eiquadprog</depend>
+    <depend>inria_maths</depend>
+    <depend>inria_utils</depend>
+</package>
